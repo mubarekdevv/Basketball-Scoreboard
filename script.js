@@ -1,5 +1,5 @@
 // Game State
-let gameState = {
+const gameState = {
   homeTeam: {
     name: "HOME",
     score: 0,
